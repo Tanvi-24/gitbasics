@@ -18,3 +18,33 @@ git commit   24
 git log  
 git checkout commitid (to jump  to previous commits or stage)
 git switch - or git switch master (to go to current stage)
+
+git log  
+git log --oneline 86  clear   
+git log --oneline  
+git checkout 76cd8f2   
+git checkout master   
+git stage    
+git stage --help   
+git checkout --help   
+git status   
+git status   
+ls      
+git status   
+ls   
+ls -lah  
+git config --global core.editor notepad.exe  
+git status 
+git status  103  git add .  
+git status  
+git commit 
+git log  
+git tag V1.0  
+git log  
+git switch -  
+git log  
+git checkout V1.0  
+git checkout master  
+git log --oneline  
+git tag -d V1.0 
+git log --oneline
