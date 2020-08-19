@@ -15,4 +15,5 @@ git commit   24
  git config --global user.name "" 
  git commit  
  git status  
-git log  :
+git log  
+Done
