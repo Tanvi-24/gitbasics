@@ -16,4 +16,5 @@ git commit   24
  git commit  
  git status  
 git log  
-Done
+git checkout commitid (to jump  to previous commits or stage)
+git switch - or git switch master (to go to current stage)
