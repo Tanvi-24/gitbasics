@@ -1,2 +1,18 @@
 Hii 
-My new text 
+My new text about Git
+
+git status  
+ git log  
+ git add 1.txt 
+ git status   
+git rm --cached 1.txt   
+ ls   
+ git status  
+git add 1.txt  
+git status   
+git commit   24  
+ git config --global user.email ""   
+ git config --global user.name "" 
+ git commit  
+ git status  
+git log  :
